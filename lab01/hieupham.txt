@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hallo hieupham_ver2 this is not the branch hallo. Hieu is gonna be accepted to Uppsala.
+=======
+hallo vietnam
+>>>>>>> master
